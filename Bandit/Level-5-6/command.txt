@@ -1,0 +1,7 @@
+# Bandit Level 5 → Level 6
+
+## 🚀 Commands Used
+- find inhere -type f -size 1033c ! -executable
+- find inhere -type f -size 1033c -readable ! -executable -exec file {} \;
+- find inhere -type f -size 1033c -readable ! -executable -exec file {} \; -print
+- cat inhere/maybehere07/.file2
