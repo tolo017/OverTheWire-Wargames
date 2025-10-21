@@ -1,0 +1,7 @@
+# Bandit Level 7 → Level 8
+
+## 🚀 Commands Used
+- cat data.txt | grep millionth
+- grep "millionth" data.txt
+- grep -i "millionth" data.txt
+- grep -n "millionth" data.txt
