@@ -1,0 +1,6 @@
+# Bandit Level 8 → Level 9
+
+## 🚀 Commands Used
+- sort data.txt | uniq -u
+- sort data.txt | uniq -c
+- sort data.txt | uniq -d
