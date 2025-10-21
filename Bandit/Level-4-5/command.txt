@@ -1,0 +1,8 @@
+# Bandit Level 4 → Level 5
+
+## 🚀 Commands Used
+- cd inhere
+  file ./*
+  cat ./-file07
+
+- file inhere/* | grep ASCII | cut -d: -f1 | xargs cat
