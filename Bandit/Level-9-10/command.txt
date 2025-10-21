@@ -1,0 +1,7 @@
+# Bandit Level 9 → Level 10
+
+## 🚀 Commands Used
+- strings data.txt
+  strings data.txt | grep "="
+- cat data.txt | strings | grep ^=
+- strings data.txt | grep -E "=+"
