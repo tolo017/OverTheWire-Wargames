@@ -233,10 +233,10 @@ The Bandit wargame is your **first step** into cybersecurity through OverTheWire
 
 | Levels | Status | Completion Date |
 |--------|--------|-----------------|
-| 0-5 | ✅ Completed | 21/10/2025 |
-| 6-10 | 🔄 In Progress | - |
-| 11-20 | ⏳ Planned | - |
-| 21-34 | ⏳ Planned | - |
+| 0-9 | ✅ Completed | 21/10/2025 |
+| 10-19 | 🔄 In Progress | - |
+| 20-29 | ⏳ Planned | - |
+| 30-34 | ⏳ Planned | - |
 
 ---
 
