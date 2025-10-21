@@ -1,0 +1,7 @@
+# Bandit Level 2 → Level 3
+
+## 🚀 Commands Used
+- cat ./"--spaces in this filename--"
+- cat -- "--spaces in this filename--"
+- cat /home/bandit2/"--spaces in this filename--"
+- cat -- --spaces\ in\ this\ filename--
